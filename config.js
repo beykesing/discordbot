@@ -1,6 +1,6 @@
 module.exports = {
 
-  token: "MTQ3OTE4MjgzNTI4MDUxNTIwNA.GGgsrj.DhmIstoYULflMoxDbQN2hjhtT5KSoIzgeoH9EE",
+  token: "MTQ3OTE4MjgzNTI4MDUxNTIwNA.GaLb42.FgG5xi0yDYdFFl-DKuHoOVkhoEJFf3gbrBD7_4",
 
   prefix: ".",
 
